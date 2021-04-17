@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theartoffire
-- 👀 I’m interested in ... arduino and rasberry pi
+- 👀 I’m interested in ... arduino and raspberry pi
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... arduino projects
 - 📫 How to reach me ... 
